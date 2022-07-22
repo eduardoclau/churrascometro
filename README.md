@@ -1,2 +1,2 @@
 # churrascometro
-Churrascômetro - Calcular quantidade carne, bebida e cerveja.
+Churrascômetro - Calcular quantidade de carne, bebida e cerveja.
